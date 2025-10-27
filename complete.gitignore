@@ -7274,6 +7274,19 @@ book
 ### MEAN ###
 # MEAN Stack Base
 
+### MEAN.Anglar Stack ###
+# compiled output
+
+# dependencies
+
+# IDEs and editors
+
+# misc
+
+# e2e
+
+# System Files
+
 ### MEAN.Node Stack ###
 # Logs
 
@@ -7345,19 +7358,6 @@ book
 # Stores VSCode versions used for testing VSCode extensions
 
 # yarn v2
-
-### MEAN.Anglar Stack ###
-# compiled output
-
-# dependencies
-
-# IDEs and editors
-
-# misc
-
-# e2e
-
-# System Files
 
 ### Mercurial ###
 .hg/
@@ -9503,6 +9503,65 @@ sketch
 .expo
 __generated__
 
+### ReactNative.macOS Stack ###
+# General
+
+# Icon must end with two \r
+
+# Thumbnails
+
+# Files that might appear in the root of a volume
+
+# Directories potentially created on remote AFP share
+
+### ReactNative.Android Stack ###
+# Gradle files
+
+# Local configuration file (sdk path, etc)
+
+# Log/OS Files
+
+# Android Studio generated files and folders
+
+# IntelliJ
+
+# Keystore files
+
+# Google Services (e.g. APIs or Firebase)
+
+# Android Profiling
+
+### ReactNative.Gradle Stack ###
+**/build/
+!src/**/build/
+
+# Ignore Gradle GUI config
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+
+# Avoid ignore Gradle wrappper properties
+!gradle-wrapper.properties
+
+# Cache of project
+
+# Eclipse Gradle plugin generated files
+# Eclipse Core
+# JDT-specific (Eclipse Java Development Tools)
+
+### ReactNative.Xcode Stack ###
+
+## Xcode 8 and earlier
+
+### ReactNative.Linux Stack ###
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+
+# KDE directory preferences
+
+# Linux trash folder which might appear on any partition or disk
+
+# .nfs files are created when an open file is removed but is still being accessed
+
 ### ReactNative.Node Stack ###
 # Logs
 
@@ -9575,66 +9634,7 @@ __generated__
 
 # yarn v2
 
-### ReactNative.macOS Stack ###
-# General
-
-# Icon must end with two \r
-
-# Thumbnails
-
-# Files that might appear in the root of a volume
-
-# Directories potentially created on remote AFP share
-
-### ReactNative.Android Stack ###
-# Gradle files
-
-# Local configuration file (sdk path, etc)
-
-# Log/OS Files
-
-# Android Studio generated files and folders
-
-# IntelliJ
-
-# Keystore files
-
-# Google Services (e.g. APIs or Firebase)
-
-# Android Profiling
-
-### ReactNative.Xcode Stack ###
-
-## Xcode 8 and earlier
-
 ### ReactNative.Buck Stack ###
-
-### ReactNative.Gradle Stack ###
-**/build/
-!src/**/build/
-
-# Ignore Gradle GUI config
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-
-# Avoid ignore Gradle wrappper properties
-!gradle-wrapper.properties
-
-# Cache of project
-
-# Eclipse Gradle plugin generated files
-# Eclipse Core
-# JDT-specific (Eclipse Java Development Tools)
-
-### ReactNative.Linux Stack ###
-
-# temporary files which can be created if a process still has a handle open of a deleted file
-
-# KDE directory preferences
-
-# Linux trash folder which might appear on any partition or disk
-
-# .nfs files are created when an open file is removed but is still being accessed
 
 ### Reasonml ###
 
